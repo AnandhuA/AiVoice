@@ -1,0 +1,6 @@
+[
+  {"character": "Arthur", "emotion": "suspicious", "intensity": 65, "dialogue": "നീ എന്താണ് ചെയ്യുന്നതെന്ന് എനിക്ക് അറിയില്ലെന്ന് കരുതുന്നുണ്ടോ?"},
+  {"character": "John", "emotion": "calm", "intensity": 40, "dialogue": "നമുക്ക് പോകാം."},
+  {"character": "Sadie", "emotion": "angry", "intensity": 80, "dialogue": "ഇവിടെ നിൽക്ക്! ഞാൻ പറയുന്നത് കേൾക്ക്."},
+  {"character": "Dutch", "emotion": "excited", "intensity": 75, "dialogue": "John, നീ ready ആണോ? നമുക്ക് ഇപ്പോൾ തന്നെ പോകാം."}
+]
